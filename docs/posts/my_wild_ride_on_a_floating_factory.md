@@ -16,10 +16,11 @@ DISCLAIMER: Given the classified nature of the operations happening on board the
 First things first—FPSO stands for Floating Production Storage and Offloading. And no, it's not just a fancy oil tanker. Think of it more like a massive, self-contained factory that floats on the ocean.
 
 Here's the basic process:
+
 - Oil rigs drill the seabed
 - The FPSO extracts oil and does some pretty complex magic
 - It processes the oil, & manages different types of gas that accompanies the oil
-- Even injects water back into the seabed to protect marine life
+- Water injection to maintain reservoir pressure (a key process to minimizing the ecological impact of offshore oil extraction!)
 
 If I were placed on a random spot on the ship, I'd have a hard time orienting myself and figuring out how to get from one point to another.
 
@@ -39,14 +40,19 @@ Mostly though, as an anime fan, it reminded me of another large, floating castle
 
 ## Day in the Life
 
-Picture this: Engineers carrying on their shoulders different beams and poles, navigating a labyrinth of narrow passageways, their shoulders brushing against tangled electrical conduits while squeezing through congested corners, creeping through wire-strewn platforms. Above, painters in heavy coveralls, dangling precariously to the ship's side, with safety harnesses cutting into their coveralls, brushstrokes against the ship’s hull with nothing but dark ocean waiting below. Massive turbines that look like they were ripped out of commercial jets. Endless tubes, tanks, and storage units on every level. Thick coils of metallic rope used for anchoring the vessel. It was like walking through the most complex Lego set you could imagine. The intense, gritty atmosphere of the vessel hit me hard as I waded through the controlled chaos of mechanical complexity & human labor.
+**Picture this:** Engineers carrying on their shoulders different beams and poles, navigating a labyrinth of narrow passageways, their shoulders brushing against tangled electrical conduits while *squeezing* through congested corners, creeping through wire-strewn platforms.
+
+Above, painters in heavy coveralls, *dangling* precariously to the ship's side, with safety harnesses cutting into their coveralls, brushstrokes against the ship’s hull with nothing but dark ocean waiting below.
+
+Massive turbines that look like they were *ripped* out of commercial jets. Endless tubes, tanks, and storage units on every level. *Thick* coils of metallic rope used for anchoring the vessel. It was like walking through the most complex Lego set you could imagine. The intense, gritty atmosphere of the vessel hit me hard as I waded through the controlled chaos of mechanical complexity & human labor.
 
 ![Me getting ready to board the One Guyana](./assets/personal_one_guyana_still.jpeg)
 
 ## The Tech Behind the Magic
-I'm no marine engineer, but the technology was incredible:
-- Digital Twin systems to monitor everything
-- Sensors to detect gas leaks through sound & infrared
+I'm no marine engineer, but some (unclassified) stuff I saw included:
+
+- Digital Twin systems to monitor everything in the production process
+- Infrared & Audio sensors to detect different types of gas leaks
 - The entire vessel was literally made to optimize the whole production process
 
 The control room was like NASA mission control, but for oil production. Teams of operators made sure everything ran smoothly.
