@@ -6,12 +6,12 @@ Data & AI Engineer at Biotech startup working on productizing data pipelines, bu
 
 
 ### What I've been working on:
-- AI Copilots for Market Research & Probiotic Development
-- Queryable data infrastructure for metagenomic assembled genomes (MAGs)
-- Metagenomic Pipeline Operationalization to Data Products
+- AI Copilots for market research & probiotic developments
+- Queryable Data Infrastructure for metagenomic assembled genomes (MAGs)
+- Metagenomic Pipeline Operationalization to automate generation of data products
 
 ### Life Experiences:
-- [my wild ride on a floating factory](./posts/my_wild_ride_on_a_floating_factory.md):
+- [my wild ride on a floating factory](./posts/my_wild_ride_on_a_floating_factory.md)
 
 
 <!-- * `mkdocs new [dir-name]` - Create a new project.
