@@ -2,3 +2,7 @@ site_name: Yong Quan's Blog
 site_url: https://yongquantan.com
 theme:
   name: material
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences

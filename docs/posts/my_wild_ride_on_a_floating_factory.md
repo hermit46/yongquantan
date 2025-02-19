@@ -1,3 +1,13 @@
+---
+title: "My Wild Ride on a Floating Factory"
+date: 2025-01-27
+description: "Personal learnings while onboard the largest oil extraction vessel"
+categories:
+  - personal musings
+authors:
+  - yongquantan
+---
+
 # My Wild Ride On A Floating Factory
 
 Growing up in Singapore, I knew nothing about offshore oil and gas. My dad used to work in maritime industries, and I'd zone out every time he talked about shipping and charts. Little did I know I'd one day find myself on a massive floating vessel that's basically a city in the middle of the ocean.
@@ -6,9 +16,9 @@ The one I went on recently was the [FPSO One Guyana](https://www.sbmoffshore.com
 
 ![One Guyana FPSO](./assets/one_guyana_drydock.png)
 
-<aside>
-DISCLAIMER: Given the classified nature of the operations happening on board the vessel, and how usually outsiders can’t enter, I am unable to share in detail what I saw, so the post centers mostly on my technical learnings & other casual observations.
-</aside>
+!!! Disclaimer
+
+    Given the classified nature of the operations happening on board the vessel, and how usually outsiders can’t enter, I am unable to share in detail what I saw, so the post centers mostly on my technical learnings & other casual observations.
 
 
 ## Wait, What's an FPSO?
@@ -63,7 +73,7 @@ What struck me most wasn't the technology, but the scale. This floating factory 
 
 Standing there, I felt small.  What gripped me then was the sense; that there are things much, much larger than myself, whose design I had no say in, whose form awes me, whose function is integral to our continued progress.
 
-**The Unexpected Journey**
+## The Unexpected Journey
 
 I can't share all the details of how I ended up here, but it's been an opportunity I never expected. And honestly? I'm grateful for every mind-blowing moment.
 
