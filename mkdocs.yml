@@ -1,8 +1,18 @@
 site_name: Yong Quan's Blog
 site_url: https://yongquantan.com
+site_description: Sharings on technical learnings in biotech & applied AI
 theme:
   name: material
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+
+nav:
+  - About Me: index.md
+  - Blog: blog/index.md
+
+plugins:
+  - search
+  - blog
+  - tags
