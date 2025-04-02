@@ -7,14 +7,14 @@
 
 Data & AI Engineer at Biotech startup working on productizing data pipelines, building data infrastructure & implementing AI copilots.
 
-### What I've been working on:
+### What I've been working on
 - Reducing Time-To-Insight for Market Research & Probiotic Developments with AI Copilots
 - Making Bleeding-Edge Research Pipelines Production-Ready by Optimizing Compute & Streamlining Workflows
 - Democratizing Data Pipelines Throughout Entire Data Science Teams with End-to-End Integrations
 - Accelerating Genomic Research via Queryable Data Infrastructure for Metagenomic Assembled Genomes (MAGs)
 - Reducing Manual Paperwork with Accurate Speech-To-Text Transcription Systems in Medical Domains
 
-### Life Experiences:
+### Life Experiences
 - [my wild ride on a floating factory](./blog/posts/my_wild_ride_on_a_floating_factory.md)
 
 <!-- * `mkdocs new [dir-name]` - Create a new project.
