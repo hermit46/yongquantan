@@ -16,6 +16,8 @@ The one I went on recently was the [FPSO One Guyana](https://www.sbmoffshore.com
 
 ![One Guyana FPSO](./assets/one_guyana_drydock.png)
 
+<!-- more -->
+
 !!! Disclaimer
 
     Given the classified nature of the operations happening on board the vessel, and how usually outsiders can’t enter, I am unable to share in detail what I saw, so the post centers mostly on my technical learnings & other casual observations.
