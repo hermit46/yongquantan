@@ -3,6 +3,14 @@ site_url: https://yongquantan.com
 site_description: Yong Quan talks about AI, Data, Evals and more
 theme:
   name: material
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://x.com/yongquanYQ
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/yong-quan-tan/
+    - icon: material/calendar
+      link: https://cal.com/yongquan26
+
 markdown_extensions:
   - admonition
   - pymdownx.details
