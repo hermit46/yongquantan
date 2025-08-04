@@ -1,0 +1,9 @@
+/* Custom styles for the website */
+
+/* Profile image sizing */
+img[alt="yongquantan"] {
+  width: 250px;
+  height: 250px;
+  object-fit: cover; /* This ensures the image maintains its aspect ratio within the dimensions */
+  border-radius: 50%;
+}
