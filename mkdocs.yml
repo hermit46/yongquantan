@@ -1,6 +1,6 @@
 site_name: Yong Quan's Blog
 site_url: https://yongquantan.com
-site_description: Sharings on technical learnings in biotech & applied AI
+site_description: Yong Quan talks about AI, Data, Evals and more
 theme:
   name: material
 markdown_extensions:
